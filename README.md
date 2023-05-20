@@ -1,8 +1,15 @@
 # qr_code2
 
-A new Flutter project.
+A simple Flutter project written in Dart language 
+An App with two main features :
+  1- Creat QR Codes 
+  2- Scan QR Codes 
 
-## Getting Started
+I used a flutter package (qr_code_scanner 1.0.1) 
+
+
+
+# more about Flutter 
 
 This project is a starting point for a Flutter application.
 
